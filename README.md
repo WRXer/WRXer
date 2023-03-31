@@ -12,4 +12,4 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Python Developer from Russia :ru:.
+I am a Python Developer :atom: from Russia :ru:.
