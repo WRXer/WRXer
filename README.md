@@ -19,6 +19,10 @@ I am a Python Developer :atom: from Russia :ru:.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/WRXer)
 
+### Using languages
+[![Python](https://img.shields.io/badge/-Python-3f3fff?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-3f3fff?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](https://github.com/WRXer)
+
 ### My Stats :
 <p align="center">
   <a href="https://github.com/WRXer">
