@@ -14,6 +14,11 @@
 ### :woman_technologist: About Me :
 I am a Python Developer :atom: from Russia :ru:.
 
+### OS
+[![Linux](https://img.shields.io/badge/linux-3f3fff?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black)](https://github.com/WRXer)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-3f3fff?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=black)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-3f3fff?style=for-the-badge&logo=Windows&labelColor=black)](https://github.com/WRXer)
+
 ### My Stats :
 <p align="center">
   <a href="https://github.com/WRXer">
