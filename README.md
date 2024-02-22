@@ -31,19 +31,15 @@ I am a Python Developer :atom: from Russia :ru:.
 
 ### My Stats :
 <p align="center">
+  <a href="https://github.com/WRXer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRXer&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/WRXer">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WRXer&theme=transparent" />
+  </a>
+</p>
+<p align="center">
     <a href="https://github.com/WRXer">
     <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=WRXer&layout=compact&theme=transparent" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/WRXer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRXer&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-
-  <a href="https://github.com/WRXer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WRXer&theme=transparent" />
-  </a>
-
-</p>
-
