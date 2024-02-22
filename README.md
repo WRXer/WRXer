@@ -38,6 +38,8 @@ I am a Python Developer :atom: from Russia :ru:.
   <a href="https://github.com/WRXer">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WRXer&theme=transparent" />
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WRXer&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/WRXer">
+    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=WRXer&layout=compact&theme=transparent" />
+  </a>
 </p>
 
