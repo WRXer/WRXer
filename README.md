@@ -16,7 +16,9 @@ I am a Python Developer :atom: from Russia :ru:.
 
 ### My Stats :
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WRXer&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://github.com/WRXer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WRXer&hide_border=true&card_width=338&theme=transparent" />
+  </a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WRXer&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </p>
